@@ -1,8 +1,6 @@
-# CS50 Harvard - Project Mail
+# My Mailing
 
 <img src="exemple.PNG" alt="Demo">
-
-# Mail
 
 Using JavaScript, HTML, and CSS, complete the implementation of your single-page-app email client inside of inbox.js (and not additional or other files; for grading purposes, we’re only going to be considering inbox.js!).
 
